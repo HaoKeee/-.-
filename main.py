@@ -61,8 +61,8 @@ def run():
       break
 
 def main():
-  # seckill_by_proc_pool()  #多线程抢购函数，会导致请求过于频繁而无法成功请求，因此注释掉,可以考虑不同账号多线程
-  run()
+  seckill_by_proc_pool()  #多线程抢购函数，会导致请求过于频繁而无法成功请求，因此注释掉,可以考虑不同账号多线程
 
 if __name__ == "__main__":
-  main()
+  # main()
+  run()
