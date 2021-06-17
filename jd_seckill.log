@@ -1,0 +1,43 @@
+2021-06-17 15:51:45,405 - 12396-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:39] - INFO: 校验是否登录[成功]
+2021-06-17 15:51:45,568 - 12396-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:40] - INFO: 用户:jd_cWDauZVaYwdL
+2021-06-17 15:51:46,254 - 12396-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\main.py[line:34] - INFO: 请检查是否已添加商品到购物车，如未添加则需要重新添加
+2021-06-17 15:51:46,256 - 12396-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2021-06-17 12:00:00.150000
+2021-06-17 15:51:46,256 - 12396-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-06-17 16:36:49,875 - 15012-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:39] - INFO: 校验是否登录[成功]
+2021-06-17 16:36:50,049 - 15012-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:40] - INFO: 用户:jd_cWDauZVaYwdL
+2021-06-17 16:38:10,008 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:42] - INFO: 校验是否登录[成功]
+2021-06-17 16:38:10,179 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:43] - INFO: 用户:jd_cWDauZVaYwdL
+2021-06-17 16:38:10,648 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\main.py[line:34] - INFO: 请检查是否已添加商品到购物车，如未添加则需要重新添加
+2021-06-17 16:38:10,655 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2021-06-17 12:00:00.150000
+2021-06-17 16:38:10,656 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-06-17 16:38:11,240 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 绿田 LUTIAN 高压洗车机 家用清洗机 洗车水泵220V小型家用摩托车汽车用品220V 小水牛BUFFALO-B4 SE商品无货！
+2021-06-17 16:38:11,406 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:38:11,570 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:38:11,722 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:38:11,881 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:38:12,035 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:38:12,192 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:38:12,347 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:38:12,523 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:38:12,707 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:38:12,835 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2021-06-17 12:00:00.150000
+2021-06-17 16:38:12,836 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-06-17 16:38:13,111 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:38:13,265 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:38:13,432 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:38:13,594 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:38:13,746 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:38:13,918 - 13076-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:45:09,083 - 12512-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:42] - INFO: 校验是否登录[成功]
+2021-06-17 16:45:09,252 - 12512-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:43] - INFO: 用户:jd_cWDauZVaYwdL
+2021-06-17 16:45:10,425 - 12512-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\main.py[line:52] - INFO: 请检查是否已添加商品到购物车，如未添加则需要重新添加
+2021-06-17 16:45:12,369 - 12512-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: None
+2021-06-17 16:45:12,999 - 12512-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:45:13,632 - 12512-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:45:14,283 - 12512-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:45:14,944 - 12512-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:45:15,467 - 12512-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:45:15,722 - 12512-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:45:16,041 - 12512-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:45:16,428 - 12512-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
+2021-06-17 16:45:17,087 - 12512-MainThread - h:\HaoKe-Files\MyProject\my-jd-seckill\jd_seckill.py[line:265] - INFO: 您多次提交过快，请稍后再试
