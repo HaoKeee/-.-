@@ -263,6 +263,7 @@ class JdSeckill(object):
     response = self.session.post(url, headers=headers, params=params, data=data)
     datas = util.parse_json(response.text)
     logger.info(datas['message'])
+    return datas['message']
 
 if __name__ == "__main__":
   pass
